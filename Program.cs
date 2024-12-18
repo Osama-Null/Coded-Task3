@@ -96,4 +96,3 @@ else
     Console.WriteLine(BMIState);
 }
 
-
